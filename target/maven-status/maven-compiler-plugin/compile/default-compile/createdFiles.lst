@@ -1,0 +1,5 @@
+com\example\ec2restservice\Ec2restserviceApplication.class
+com\example\ec2restservice\Curso.class
+com\example\ec2restservice\DBSinController.class
+com\example\ec2restservice\CursoRepository.class
+com\example\ec2restservice\ConDbController.class
