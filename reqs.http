@@ -1,4 +1,4 @@
-@subdominio = guia-ec2
+@subdominio = ec2dsw1
 
 ##############################
 # Requests SIN base de datos #

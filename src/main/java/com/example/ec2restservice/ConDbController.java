@@ -37,7 +37,7 @@ public class ConDbController {
 	public @ResponseBody String eliminar (@RequestParam Integer id) {
 		Curso n = new Curso();
 		n.setId(id);
-		cursoRepository.save(n);
+		cursoRepository.delete(n);
 		return "Curso eliminado";
 	}
     
